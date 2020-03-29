@@ -82,3 +82,17 @@ font-size: 0;
 	color: #F15B31;
 	font-weight: 700;
 }
+#button{
+	background-color: #F15B31;
+	color: #ffffff;
+	font-size: 25px;
+	padding: 10px;
+	margin: 10px;
+}
+#score-board{
+	background-color: #00a6b3;
+	color: #ffffff;
+	font-size: 25px;
+	padding: 10px;
+	margin: 10px;
+}
